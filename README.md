@@ -75,3 +75,9 @@ TASK 2 : Project 1 :
 The Music Player App is a fully functional and visually appealing web-based music player that demonstrates strong skills in HTML, CSS, and JavaScript. It delivers a user-friendly interface with smooth playback controls and a dynamic playlist system. This project is an excellent addition to a developer’s portfolio, showcasing abilities in responsive design, interactivity, and clean coding practices.
 
 ## Output:
+
+<img width="666" height="968" alt="Image" src="https://github.com/user-attachments/assets/5d96b7de-ece1-42f5-9372-08bf6241fc2f" />
+
+<img width="661" height="960" alt="Image" src="https://github.com/user-attachments/assets/0e68c16b-4c2c-4a26-b92f-e688da76700b" />
+
+<img width="651" height="960" alt="Image" src="https://github.com/user-attachments/assets/50f855c4-e9ab-4bb5-abbb-102dd2c36aa4" />
